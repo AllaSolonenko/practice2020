@@ -8,9 +8,8 @@
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Features](#features)
+* [App Screens](#App Screens)
 * [Status](#status)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
@@ -22,8 +21,6 @@ The application is designed to help inexperienced gardeners. With the help of th
 
 ## Technologies
 * expo.io - SDK version 39
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
 
 ## Setup
 Follow the link and open it on your phone using qr-code.
@@ -59,7 +56,7 @@ Example of usage:
       </View>
     );`
 
-## App Screens:
+## App Screens
 - Welcome
 - Login, SignUp
 - Browse, 
@@ -68,7 +65,6 @@ Example of usage:
 
 ## Status
 Project is: _in progress_, _finished_,
-
 
 
 ## Contact
