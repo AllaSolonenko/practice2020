@@ -6,7 +6,7 @@
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [App Screens](#App Screens)
+* [App Screens](#AppScreens)
 * [Status](#status)
 * [Contact](#contact)
 
