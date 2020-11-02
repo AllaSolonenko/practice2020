@@ -1,6 +1,4 @@
-# practice2020
-
-# Plant App
+# HousePlants App
 > Multi-screen mobile application for plant care.
 
 ## Table of contents
@@ -17,7 +15,8 @@ The application is designed to help inexperienced gardeners. With the help of th
 
 
 ## Screenshots
-![view of application screens](./img/screenshot.png)
+![view of application screens](https://drive.google.com/file/d/1PxjHo7jFLd4sBh6EzEcMmxledZxIdDVg/view?usp=sharing)
+
 
 ## Technologies
 * expo.io - SDK version 39
