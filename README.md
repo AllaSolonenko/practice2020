@@ -15,7 +15,9 @@ The application is designed to help inexperienced gardeners. With the help of th
 
 
 ## Screenshots
-![view of application screens](https://drive.google.com/file/d/1PxjHo7jFLd4sBh6EzEcMmxledZxIdDVg/view?usp=sharing)
+![browse](./Screenshots/Browse.png)
+![search](./Screenshots/Search.png)
+![plant](./Screenshots/Plant.png)
 
 
 ## Technologies
