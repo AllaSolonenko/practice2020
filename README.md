@@ -6,6 +6,7 @@
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [How to use the application](#Howtousetheapplication)
 * [App Screens](#AppScreens)
 * [Status](#status)
 * [Contact](#contact)
@@ -18,6 +19,11 @@ The application is designed to help inexperienced gardeners. With the help of th
 ![browse](./Screenshots/Browse.png)
 ![search](./Screenshots/Search.png)
 ![plant](./Screenshots/Plant.png)
+
+
+## Technologies
+* expo.io - SDK version 39
+
 
 ## How to use the application
 
@@ -47,8 +53,6 @@ The application is designed to help inexperienced gardeners. With the help of th
 ____
 
 
-## Technologies
-* expo.io - SDK version 39
 
 ## Setup
 Follow the link and open it on your phone using qr-code.
