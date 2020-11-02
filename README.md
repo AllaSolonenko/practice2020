@@ -19,6 +19,33 @@ The application is designed to help inexperienced gardeners. With the help of th
 ![search](./Screenshots/Search.png)
 ![plant](./Screenshots/Plant.png)
 
+## How to use the application
+
+
+1.  Log in to the application. To do this, click Login. Otherwise, register and click SingUp.
+
+
+[<img src="Screenshots/Welcome.png" width="250"/>](Screenshots/Welcome.png)
+
+
+2.  Login or SingUP
+
+
+[<img src="Screenshots/Login.png" width="250"/>](Screenshots/Login.png)
+[<img src="Screenshots/Singup.png" width="250"/>](Screenshots/Singup.png)
+
+3. Press on the field “Type a plant to search" and enter the name of the plant to search
+
+
+[<img src="Screenshots/Search.png" width="250"/>](Screenshots/Search.png)
+
+
+3. Сlick on the card with the plant
+
+[<img src="Screenshots/Plant.png" width="250"/>](Screenshots/Plant.png)
+
+____
+
 
 ## Technologies
 * expo.io - SDK version 39
